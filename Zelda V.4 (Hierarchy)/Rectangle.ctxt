@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=inX\ inY\ inHeight\ inWidth
+comment0.target=Rectangle(int,\ int,\ int,\ int)
+comment1.target=int\ left()
+comment10.params=r\ s\ p\ rght\ bttm\ wrap
+comment10.target=int\ testDown(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment11.params=r\ s\ p\ rght\ bttm\ wrap
+comment11.target=int\ testRight(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment12.params=r\ s\ p\ rght\ bttm\ wrap
+comment12.target=int\ testLeft(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment2.target=int\ top()
+comment3.target=int\ right()
+comment4.target=int\ bottom()
+comment5.target=int\ width()
+comment6.target=int\ height()
+comment7.params=inRect
+comment7.target=boolean\ intercepts(Rectangle)
+comment8.params=lists
+comment8.target=void\ remove(ArrayList\ ...)
+comment9.params=r\ s\ p\ rght\ bttm\ wrap
+comment9.target=int\ testUp(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+numComments=13

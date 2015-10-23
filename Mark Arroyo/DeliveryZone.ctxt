@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=zone
+comment0.target=DeliveryZone(String)
+comment1.params=newASect
+comment1.target=void\ setAlphaSection(char)
+comment2.params=newNumSect
+comment2.target=void\ setNumericalSection(int)
+comment3.target=char\ getASect()
+comment4.target=int\ getNumSect()
+comment5.params=param
+comment5.target=int\ compareZones(DeliveryZone)
+comment6.target=String\ toString()
+comment7.target=DeliveryZone[]\ fillGrid()
+comment8.params=alpha
+comment8.target=ArrayList<String>\ getAdjacents(DeliveryZone)
+comment9.params=unknown\ known
+comment9.target=boolean\ isAdjacent(DeliveryZone,\ DeliveryZone)
+numComments=10

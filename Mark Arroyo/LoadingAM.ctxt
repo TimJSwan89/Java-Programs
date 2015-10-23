@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=packages
+comment0.target=void\ loadRegularTrucks(ArrayList<PackageMA>)
+comment1.params=packages
+comment1.target=void\ loadSpecialTrucks(ArrayList<PackageMA>)
+numComments=2

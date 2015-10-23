@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArrayList<Location>\ getPossibleMoves()
+comment1.params=moves
+comment1.target=ArrayList<Location>\ getPossibleAmbush(ArrayList<Location>)
+comment2.target=String\ toString()
+comment3.target=boolean\ isWhite()
+comment4.target=Location\ getLocation()
+comment5.params=newLoc
+comment5.target=void\ changeLocation(Location)
+comment6.target=ArrayList<Location>\ getPossibleAttack()
+comment7.params=loc
+comment7.target=boolean\ testMove(Location)
+numComments=8

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=sDate\ compName\ delZone\ weight\ volume
+comment0.target=RegularPackage(DateMA,\ String,\ String,\ double,\ double)
+numComments=1

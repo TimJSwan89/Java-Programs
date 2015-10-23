@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ChessBoard()
+comment1.params=white
+comment1.target=ArrayList<Piece>\ getPlayer(boolean)
+comment2.params=loc
+comment2.target=boolean\ isValid(Location)
+comment3.params=oldLoc\ newLoc
+comment3.target=void\ move(Location,\ Location)
+comment4.params=loc
+comment4.target=Piece\ getPiece(Location)
+comment5.params=x\ y
+comment5.target=Piece\ getPiece(int,\ int)
+numComments=6

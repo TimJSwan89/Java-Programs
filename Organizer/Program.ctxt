@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment2.params=x\ y\ l
+comment2.target=void\ letter(int,\ int,\ char)
+comment3.params=x\ y\ x2\ y2
+comment3.target=void\ line(int,\ int,\ int,\ int)
+comment4.target=int\ r()
+numComments=5

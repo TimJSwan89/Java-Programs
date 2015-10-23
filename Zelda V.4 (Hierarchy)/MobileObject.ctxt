@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=inX\ inY\ inHeight\ inWidth
+comment0.target=MobileObject(int,\ int,\ int,\ int)
+comment1.params=inRects\ distance\ rightWall\ bottomWall\ wrap
+comment1.target=int\ pushUp(ArrayList<Rectangle>,\ int,\ int,\ int,\ boolean)
+comment2.params=inRects\ distance\ push\ rightWall\ bottomWall\ wrap
+comment2.target=int\ testUp(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment3.params=inRects\ distance\ rightWall\ bottomWall\ wrap
+comment3.target=int\ pushLeft(ArrayList<Rectangle>,\ int,\ int,\ int,\ boolean)
+comment4.params=inRects\ distance\ push\ rightWall\ bottomWall\ wrap
+comment4.target=int\ testLeft(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment5.params=inRects\ distance\ rightWall\ bottomWall\ wrap
+comment5.target=int\ pushRight(ArrayList<Rectangle>,\ int,\ int,\ int,\ boolean)
+comment6.params=inRects\ distance\ push\ rightWall\ bottomWall\ wrap
+comment6.target=int\ testRight(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment7.params=inRects\ distance\ rightWall\ bottomWall\ wrap
+comment7.target=int\ pushDown(ArrayList<Rectangle>,\ int,\ int,\ int,\ boolean)
+comment8.params=inRects\ distance\ push\ rightWall\ bottomWall\ wrap
+comment8.target=int\ testDown(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+numComments=9

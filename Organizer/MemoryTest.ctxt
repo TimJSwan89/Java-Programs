@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=memTest
+comment0.target=MemoryTest(MemoryTest)
+comment1.params=inMom
+comment1.target=void\ changeMother(MemoryTest)
+numComments=2

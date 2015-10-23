@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment2.target=void\ moveAll()
+comment3.target=void\ printAll()
+comment4.target=void\ getKey()
+numComments=5

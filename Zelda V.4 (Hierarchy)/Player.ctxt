@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=inX\ inY\ inHeight\ inWidth\ inDirection
+comment0.target=Player(int,\ int,\ int,\ int,\ int)
+comment1.target=int\ getDirection()
+comment2.params=inRects\ speed\ rightWall\ bottomWall\ wrap
+comment2.target=int\ pushRight(ArrayList,\ int,\ int,\ int,\ boolean)
+comment3.params=inRects\ speed\ rightWall\ bottomWall\ wrap
+comment3.target=int\ pushUp(ArrayList,\ int,\ int,\ int,\ boolean)
+comment4.params=inRects\ speed\ rightWall\ bottomWall\ wrap
+comment4.target=int\ pushLeft(ArrayList,\ int,\ int,\ int,\ boolean)
+comment5.params=inRects\ speed\ rightWall\ bottomWall\ wrap
+comment5.target=int\ pushDown(ArrayList,\ int,\ int,\ int,\ boolean)
+comment6.params=inRects\ speed\ rightWall\ bottomWall\ wrap
+comment6.target=int\ pushDirection(ArrayList,\ int,\ int,\ int,\ boolean)
+numComments=7

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=inLines
+comment0.target=void\ setLines(boolean)
+comment1.target=boolean\ toggleLines()
+comment10.target=void\ printLines()
+comment2.params=inAsterisks
+comment2.target=void\ setAsterisks(boolean)
+comment3.target=boolean\ toggleAsterisks()
+comment4.params=inQuestion\ inAnswers
+comment4.target=String\ askString(String,\ String\ ...)
+comment5.params=inQuestion\ inAnswers
+comment5.target=int\ askInt(String,\ int\ ...)
+comment6.params=inQuestion\ inLower\ inUpper
+comment6.target=int\ askIntRange(String,\ int,\ int)
+comment7.params=inQuestion\ inAnswers
+comment7.target=double\ askDouble(String,\ double\ ...)
+comment8.params=inQuestion\ inAnswers
+comment8.target=char\ askChar(String,\ char\ ...)
+comment9.target=void\ printAsterisks()
+numComments=11

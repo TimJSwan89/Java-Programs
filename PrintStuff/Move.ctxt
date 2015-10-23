@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=h_l\ h_r\ c_l\ c_r
+comment0.target=Move(int,\ int,\ int,\ int)
+comment0.text=\nMove\ constructor\ to\ set\ position\ info\n@param\ h_l\n@param\ h_r\n@param\ c_l\n@param\ c_r\n\n
+comment1.target=int[]\ getMovePositions()
+comment1.text=\nReturns\ information\ about\ the\ positions\ of\ this\ move\n@return\n\n
+comment2.target=boolean\ isHead()
+comment2.text=\nReturns\ if\ this\ is\ the\ head\ of\ the\ move\ linked\ list\nThe\ semantic\ used\ is\ if\ all\ positions\ are\ -1,\ it\ is\ the\ head\n@return\n\n
+numComments=3

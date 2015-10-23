@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y\ z\ V2Pole\ V2
+comment0.target=Sphere(double,\ double,\ double,\ boolean,\ boolean)
+comment1.params=xNew\ yNew\ zNew
+comment1.target=void\ move(double,\ double,\ double)
+comment2.params=ang
+comment2.target=void\ xRotate(double)
+comment3.params=ang
+comment3.target=void\ yRotate(double)
+comment4.params=ang
+comment4.target=void\ zRotate(double)
+comment5.params=ang\ cosCord\ sinCord
+comment5.target=void\ rotate(double,\ double[],\ double[])
+comment6.params=g\ s\ xCam\ yCam\ zCam\ xThetaCam\ yThetaCam
+comment6.target=void\ draw(Graphics,\ int,\ double,\ double,\ double,\ double,\ double)
+comment7.params=x\ y\ z\ xCam\ yCam\ zCam\ xThetaCam\ yThetaCam\ s
+comment7.target=int[]\ findPoint(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ int)
+numComments=8

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=gp
+comment0.target=void\ initialize(Graphics)
+comment1.params=inFacing\ blank
+comment1.target=Graphics\ draw(int,\ Graphics)
+comment2.params=la\ inFacing
+comment2.target=void\ draw(Graphics,\ int)
+numComments=3

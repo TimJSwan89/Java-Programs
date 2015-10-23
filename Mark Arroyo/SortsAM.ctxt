@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=packages
+comment0.target=ArrayList<PackageMA>\ sortPackages(ArrayList<String[]>)
+comment1.target=ArrayList<PackageMA>\ getSpecials()
+comment2.params=specials
+comment2.target=DeliveryZone[]\ getAllZones(ArrayList<PackageMA>)
+comment3.params=specials
+comment3.target=DeliveryZone[]\ sortZones(ArrayList<PackageMA>)
+comment4.params=unsortedPacks
+comment4.target=ArrayList<PackageMA>\ sortPacksByZone(ArrayList<PackageMA>)
+comment5.params=unsortedPacks
+comment5.target=ArrayList<PackageMA>\ sortPacksTime(ArrayList<PackageMA>)
+numComments=6

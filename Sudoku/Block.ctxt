@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=inNum
+comment0.target=Block(int)
+comment1.target=int\ getNum()
+numComments=2

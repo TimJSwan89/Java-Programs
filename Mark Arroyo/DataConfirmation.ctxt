@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=boolean\ isPositive(int)
+comment1.params=number
+comment1.target=boolean\ isPositive(double)
+numComments=2

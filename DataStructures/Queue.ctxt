@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Queue()
+comment1.params=o
+comment1.target=void\ add(Object)
+comment2.target=Object\ peek()
+comment3.target=Object\ remove()
+numComments=4

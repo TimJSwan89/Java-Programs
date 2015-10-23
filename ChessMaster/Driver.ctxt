@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment2.params=g
+comment2.target=void\ drawPieces(Graphics)
+comment3.params=g
+comment3.target=void\ drawBoard(Graphics)
+comment4.params=g\ color\ loc
+comment4.target=void\ drawSelector(Graphics,\ Color,\ Location)
+comment5.params=g\ color\ x\ y
+comment5.target=void\ drawSelector(Graphics,\ Color,\ int,\ int)
+numComments=6

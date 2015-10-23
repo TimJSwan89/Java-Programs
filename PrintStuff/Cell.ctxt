@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=left\ right\ ttt
+comment0.target=Cell(int,\ int,\ TicTacToe)
+comment0.text=\nConstructs\ our\ cell,\ stores\ position\ info\ and\ reference\ to\ the\ board\n@param\ left\n@param\ right\n@param\ ttt\n\n
+comment1.target=void\ cellClicked()
+comment1.text=\nHandle\ mouse\ clicks\ here\n\n
+numComments=2

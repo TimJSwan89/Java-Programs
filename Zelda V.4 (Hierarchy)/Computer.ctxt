@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=inX\ inY\ inHeight\ inWidth\ inDir
+comment0.target=Computer(int,\ int,\ int,\ int,\ int)
+comment1.params=inRects\ distance\ push\ rightWall\ bottomWall\ wrap
+comment1.target=int\ testUp(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment2.params=inRects\ distance\ push\ rightWall\ bottomWall\ wrap
+comment2.target=int\ testDown(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment3.params=inRects\ distance\ push\ rightWall\ bottomWall\ wrap
+comment3.target=int\ testLeft(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment4.params=inRects\ distance\ push\ rightWall\ bottomWall\ wrap
+comment4.target=int\ testRight(ArrayList<Rectangle>,\ int,\ boolean,\ int,\ int,\ boolean)
+comment5.params=dirs
+comment5.target=void\ randomDirection(int\ ...)
+comment6.params=inRects\ distance\ rightWall\ bottomWall\ wrap
+comment6.target=int\ move(ArrayList<Rectangle>,\ int,\ int,\ int,\ boolean)
+comment7.target=int\ getDirection()
+numComments=8

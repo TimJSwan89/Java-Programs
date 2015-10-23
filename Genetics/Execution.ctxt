@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment2.params=g
+comment2.target=void\ draw(Graphics)
+comment3.target=void\ move()
+comment4.params=x\ y
+comment4.target=void\ makeFood(int,\ int)
+numComments=5

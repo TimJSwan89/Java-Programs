@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=inX\ inY\ inHeight\ inWidth
+comment0.target=Wall(int,\ int,\ int,\ int)
+comment1.params=r\ s\ p\ rght\ bttm\ wrap
+comment1.target=int\ testUp(ArrayList,\ int,\ boolean,\ int,\ int,\ boolean)
+comment2.params=r\ s\ p\ rght\ bttm\ wrap
+comment2.target=int\ testDown(ArrayList,\ int,\ boolean,\ int,\ int,\ boolean)
+comment3.params=r\ s\ p\ rght\ bttm\ wrap
+comment3.target=int\ testRight(ArrayList,\ int,\ boolean,\ int,\ int,\ boolean)
+comment4.params=r\ s\ p\ rght\ bttm\ wrap
+comment4.target=int\ testLeft(ArrayList,\ int,\ boolean,\ int,\ int,\ boolean)
+numComments=5

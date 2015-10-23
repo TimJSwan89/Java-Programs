@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(String[])
+comment1.target=void\ doIt()
+comment2.target=void\ setBoardConfiguration()
+comment3.params=arg0
+comment3.target=void\ mouseClicked(MouseEvent)
+comment4.params=arg0
+comment4.target=void\ mouseEntered(MouseEvent)
+comment5.params=arg0
+comment5.target=void\ mouseExited(MouseEvent)
+comment6.params=arg0
+comment6.target=void\ mousePressed(MouseEvent)
+comment7.params=arg0
+comment7.target=void\ mouseReleased(MouseEvent)
+numComments=8

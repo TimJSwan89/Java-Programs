@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LargeTruckAM()
+comment1.target=int\ getHours()
+comment2.target=int\ getStops()
+comment3.params=newWeight
+comment3.target=boolean\ updateWeight(double)
+comment4.params=newVolume
+comment4.target=boolean\ updateVolume(double)
+comment5.params=newPack
+comment5.target=boolean\ loadPackage(PackageMA)
+comment6.params=newPack\ hour\ stop
+comment6.target=boolean\ loadPackage(PackageMA,\ int,\ int)
+comment7.target=boolean\ isFull()
+comment8.params=hour\ stop
+comment8.target=PackageMA\ getPackage(int,\ int)
+numComments=9

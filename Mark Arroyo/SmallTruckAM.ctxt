@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SmallTruckAM()
+comment1.params=newWeight
+comment1.target=boolean\ updateWeight(double)
+comment2.params=newVolume
+comment2.target=boolean\ updateVolume(double)
+comment3.params=newPack
+comment3.target=boolean\ loadPackage(PackageMA)
+numComments=4

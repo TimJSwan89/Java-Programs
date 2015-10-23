@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=inX\ inY
+comment0.target=Being(int,\ int)
+comment1.params=inX\ inY\ inHeight\ inWidth
+comment1.target=Being(int,\ int,\ int,\ int)
+comment10.target=int\ getY()
+comment11.target=int\ getYDown()
+comment12.target=int\ getHeight()
+comment13.target=int\ getWidth()
+comment2.params=speed
+comment2.target=boolean\ moveUp(int)
+comment3.params=speed
+comment3.target=boolean\ moveDown(int)
+comment4.params=speed
+comment4.target=boolean\ moveLeft(int)
+comment5.params=speed
+comment5.target=boolean\ moveRight(int)
+comment6.target=int\ getFacing()
+comment7.target=void\ shootArrow()
+comment8.target=int\ getX()
+comment9.target=int\ getXRight()
+numComments=14

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=title
+comment0.target=Data(String)
+comment1.params=i
+comment1.target=Data\ get(int)
+comment2.params=link
+comment2.target=void\ add(Data)
+comment3.params=link
+comment3.target=void\ bind(Data)
+comment4.target=String\ toString()
+comment5.params=numbered
+comment5.target=String\ immediates(boolean)
+comment6.target=String\ descendants()
+comment7.params=list\ descendants\ indent
+comment7.target=String\ descendants(ArrayList<Data>,\ String,\ int)
+comment8.target=int\ size()
+numComments=9

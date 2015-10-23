@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=inx\ iny
+comment0.target=Element(int,\ int)
+comment1.params=e
+comment1.target=void\ assign(Element)
+comment2.target=void\ move()
+comment3.target=double\ x()
+comment4.target=double\ y()
+numComments=5

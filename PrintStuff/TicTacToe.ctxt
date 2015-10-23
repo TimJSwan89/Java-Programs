@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(String[])
+comment0.text=\nCreates\ instance\ of\ TicTacToe\ and\ makes\ it\ visible\n@param\ args\ Runtime\ arguments\n\n
+comment1.target=TicTacToe()
+comment1.text=\nConstructs\ Tic\ Tac\ Toe\ Game\n\n
+comment10.target=void\ restartGame()
+comment10.text=\nreset\ the\ board\ for\ a\ new\ game\n\n
+comment2.params=l\ r
+comment2.target=void\ newMove(int,\ int)
+comment2.text=\nProcesses\ a\ new\ move\ from\ the\ GUI\n@param\ l\ Left\ Index\n@param\ r\ Right\ Index\n\n
+comment3.params=m
+comment3.target=void\ doMove(Move)
+comment4.params=m
+comment4.target=void\ undoMove(Move)
+comment5.target=void\ prevMove()
+comment6.target=void\ nextMove()
+comment7.params=l\ r
+comment7.target=boolean\ isMoveValid(int,\ int)
+comment8.params=l\ r
+comment8.target=int[]\ generateMove(int,\ int)
+comment9.target=int\ checkForFinish()
+comment9.text=\nCheck\ the\ board\ to\ see\ if\ the\ game\ is\ over\ or\ not\ and\ what\ the\ result\ is\n@return\ finish\ status\:\ \ -1\ not\ finished,\ 0\ \=\ human\ win,\ 1\ \=\ computer\ win,\ 2\ \=\ draw\n\n
+numComments=11

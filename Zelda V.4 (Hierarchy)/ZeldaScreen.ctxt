@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ paint(Graphics)
+comment10.params=screen
+comment10.target=double\ YSd(int)
+comment11.target=void\ save()
+comment12.target=void\ load()
+comment2.target=void\ moveAll()
+comment3.target=void\ printAll()
+comment4.params=x\ y
+comment4.target=void\ printObjects(int,\ int)
+comment5.params=inRect
+comment5.target=void\ center(Rectangle)
+comment6.target=void\ setScale()
+comment7.params=screen
+comment7.target=int\ XS(int)
+comment8.params=screen
+comment8.target=int\ YS(int)
+comment9.params=screen
+comment9.target=double\ XSd(int)
+numComments=13

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=str\ inter
+comment0.target=Inter(String,\ Inter)
+comment1.params=title
+comment1.target=void\ changeTitle(String)
+comment2.params=str
+comment2.target=Inter\ add(String)
+comment3.params=inter
+comment3.target=void\ remove(Inter)
+comment4.params=index
+comment4.target=Inter\ remove(int)
+comment5.params=index
+comment5.target=Inter\ getFile(int)
+comment6.target=Inter\ getMother()
+comment7.target=String\ toString()
+comment8.params=max
+comment8.target=String\ toString(int)
+comment9.params=max\ depth
+comment9.target=String\ toString(int,\ int)
+numComments=10

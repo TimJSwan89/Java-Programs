@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=board\ white\ location
+comment0.target=King(ChessBoard,\ boolean,\ Location)
+comment1.target=ArrayList<Location>\ getPossibleMoves()
+comment2.target=ArrayList<Location>\ getPossibleAttack()
+comment3.target=String\ toString()
+numComments=4

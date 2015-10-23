@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=int\ getErrorCount()
+comment1.params=count
+comment1.target=void\ resetErrorCount(int)
+comment10.target=String\ readWord()
+comment11.target=boolean\ readBoolean()
+comment12.target=char\ readChar()
+comment13.target=int\ readInt()
+comment14.target=long\ readLong()
+comment15.target=float\ readFloat()
+comment16.target=double\ readDouble()
+comment2.target=boolean\ getPrintErrors()
+comment3.params=flag
+comment3.target=void\ setPrintErrors(boolean)
+comment4.params=str
+comment4.target=void\ error(String)
+comment5.target=String\ getNextToken()
+comment6.params=skip
+comment6.target=String\ getNextToken(boolean)
+comment7.params=skip
+comment7.target=String\ getNextInputToken(boolean)
+comment8.target=boolean\ endOfLine()
+comment9.target=String\ readString()
+numComments=17

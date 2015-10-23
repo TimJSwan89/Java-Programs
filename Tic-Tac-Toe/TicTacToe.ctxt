@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(String[])
+comment1.target=void\ playerTurn()
+comment2.params=inSelection\ inNum\ inChoices\ inPieces
+comment2.target=int[]\ pickSquare(int,\ int,\ int[],\ int[])
+comment3.target=int[]\ getPieces()
+comment4.params=inPieces
+comment4.target=boolean\ testGame(int[])
+comment5.target=void\ print()
+numComments=6

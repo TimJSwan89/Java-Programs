@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=otherOne\ p
+comment0.target=runstuff(runstuff,\ int)
+comment1.target=void\ run()
+comment2.target=void\ main()
+comment3.params=j
+comment3.target=void\ method(int)
+comment4.params=time
+comment4.target=void\ w(long)
+numComments=5

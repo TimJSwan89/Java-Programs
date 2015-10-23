@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Board()
+comment1.params=direction\ index
+comment1.target=boolean\ isItABoundary(String,\ int)
+comment2.params=index
+comment2.target=BoardSquare\ getPiece(int)
+comment3.target=String\ getDefaultColor()
+comment4.target=int\ getBoardSize()
+numComments=5

@@ -1,0 +1,170 @@
+!SESSION 2008-02-20 17:14:00.727 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-02-20 17:29:19.198
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2008-02-22 09:07:46.643 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-02-22 09:07:52.782
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2008-03-17 18:39:16.002 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.update.core 4 42 2008-03-17 18:41:33.830
+!MESSAGE Network connection problems encountered during search.
+!SUBENTRY 1 org.eclipse.update.core 4 0 2008-03-17 18:41:33.830
+!MESSAGE Unable to access "http://update.eclipse.org/updates/3.2".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unable to access site: "http://update.eclipse.org/updates/3.2" [update.eclipse.org]
+	at org.eclipse.update.core.Utilities.newCoreException(Utilities.java:223)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:93)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:78)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:447)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:294)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+org.eclipse.core.runtime.CoreException[42]: java.net.UnknownHostException: update.eclipse.org
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at org.eclipse.update.internal.core.connection.ConnectionThreadManager$StreamRunnable.run(ConnectionThreadManager.java:96)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.UnknownHostException: update.eclipse.org
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.eclipse.update.internal.core.connection.HttpResponse.getStatusCode(HttpResponse.java:189)
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:556)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:78)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:447)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:294)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 2 org.eclipse.update.core 4 42 2008-03-17 18:41:33.840
+!MESSAGE Unable to access site: "http://update.eclipse.org/updates/3.2" [update.eclipse.org]
+!STACK 0
+java.net.UnknownHostException: update.eclipse.org
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at org.eclipse.update.internal.core.connection.ConnectionThreadManager$StreamRunnable.run(ConnectionThreadManager.java:96)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.UnknownHostException: update.eclipse.org
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.eclipse.update.internal.core.connection.HttpResponse.getStatusCode(HttpResponse.java:189)
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:556)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:78)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:447)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:294)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)
+!SUBENTRY 2 org.eclipse.update.core 4 42 2008-03-17 18:41:33.840
+!MESSAGE Unable to access site: "http://update.eclipse.org/updates/3.2" [update.eclipse.org]
+!STACK 0
+java.net.UnknownHostException: update.eclipse.org
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at org.eclipse.update.internal.core.connection.ConnectionThreadManager$StreamRunnable.run(ConnectionThreadManager.java:96)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.UnknownHostException: update.eclipse.org
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.eclipse.update.internal.core.connection.HttpResponse.getStatusCode(HttpResponse.java:189)
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:556)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:78)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:447)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:294)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:58)

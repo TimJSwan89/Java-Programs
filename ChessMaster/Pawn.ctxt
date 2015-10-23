@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=board\ white\ location
+comment0.target=Pawn(ChessBoard,\ boolean,\ Location)
+comment1.target=ArrayList<Location>\ getPossibleMoves()
+comment2.target=ArrayList<Location>\ getPossibleAttack()
+comment3.params=newLoc
+comment3.target=void\ changeLocation(Location)
+comment4.target=String\ toString()
+numComments=5

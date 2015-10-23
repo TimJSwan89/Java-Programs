@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ size\ color\ label\ index\ thereIsLineLeft\ thereIsLineAbove\ thereIsLineRight\ thereIsLineBelow
+comment0.target=BoardSquare(int,\ int,\ int,\ String,\ String,\ int,\ boolean,\ boolean,\ boolean,\ boolean)
+comment1.params=thereIsLineLeft\ thereIsLineAbove\ thereIsLineRight\ thereIsLineBelow
+comment1.target=void\ setLines(boolean,\ boolean,\ boolean,\ boolean)
+comment2.params=color\ label
+comment2.target=void\ setColorAndLabel(String,\ String)
+comment3.target=Square\ getSquare()
+comment4.target=int\ getIndex()
+comment5.params=newIndex
+comment5.target=void\ setIndex(int)
+comment6.params=direction
+comment6.target=boolean\ hasWall(char)
+numComments=7
